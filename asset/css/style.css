@@ -1,0 +1,189 @@
+body{
+  background-color: #eee;
+  line-height: 28px
+
+}
+
+a{
+  text-decoration: none;
+}
+
+
+#contain{
+
+  padding: 0;
+  margin-top: 10px;
+  border: none;
+}
+
+
+#header{
+  background-color: white;
+  color: #2d2654;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+#navigation{
+  background-color:#2d2654
+}
+
+#content{
+  background-color: white;
+  font-family: 'Arial','Helvetica',sans-serif;
+  padding-left: 0 !important;
+  padding-right:0!important;
+  margin-left: 0 !important;
+
+
+
+
+}
+
+#aboutmetitle{
+  color: #333333;
+  line-height: 42px;
+  padding-bottom: 30px;
+  font-family: DroidSerif;
+  font-size: 36px;
+  font-weight: normal;
+
+  background: url(http://stevenkinnear.com/wp-content/themes/trulyminimal/images/left-dot.png) bottom left repeat-x;
+}
+
+#innercontent{
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  text-transform: none;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+}
+
+#left{
+  margin-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background: url(http://stevenkinnear.com/wp-content/themes/trulyminimal/images/top-dot.png) right repeat-y;
+
+
+}
+
+#right{
+    color: #8c8c8c;
+    font-size: 12px;
+    font-weight: normal;
+    text-transform: uppercase;
+    padding: 15px;
+
+    background: url(http://stevenkinnear.com/wp-content/themes/trulyminimal/images/left-dot.png) left repeat-x;
+}
+
+#socialmedia{
+  margin-bottom: 35px;
+  padding-bottom: 35px;
+  background: url(http://stevenkinnear.com/wp-content/themes/trulyminimal/images/left-dot.png) bottom left repeat-x;
+}
+
+
+
+ul{
+  margin: 10px;
+}
+li{
+  margin-top: 10px;
+  display: inline;
+
+}
+
+nav a{
+
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  color: #bbb;
+  font-family: DroidSans;
+  font-size: 20px;
+
+}
+
+
+
+nav a:hover{
+  color: white;
+}
+
+nav a:active{
+  color: white;
+}
+
+h2{
+  font-family: 'Arial', 'Helvetica', sans-serif;
+  display: block;
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+
+}
+
+
+h4{
+  margin-bottom: 30px;
+}
+
+form{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h3{
+  color: #574d4d;
+  font-size: 20px;
+  font-weight: normal;
+  margin-top: 110px;
+  margin-bottom: 20px;
+}
+
+label{
+  color: #a5a3a3;
+  font-size: 12px;
+  display: block;
+  margin: 0 0 7px 2px;
+}
+
+
+
+.row{
+  font-size: 14px;
+  color:#574d4d;
+}
+.highlighted{
+  color:white;
+}
+
+
+
+.form-group{
+  margin-top:20px;
+  margin-bottom: 10px;
+}
+
+.footer{
+
+  margin-top: 30px;
+
+  color: #a4a4a4;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: DroidSerif;
+}
+
+.footer a{
+  color:#2d2654;
+}
+.footer a:hover{
+  color: #ff5c0c;
+}
